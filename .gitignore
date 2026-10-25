@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ECMIS project additions
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/ecmis.db
+.env
+.streamlit/secrets.toml
